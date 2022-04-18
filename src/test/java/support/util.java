@@ -1,6 +1,6 @@
 package support;
 
-import definitionsDa.hooks;
+import definitions.hooks;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;

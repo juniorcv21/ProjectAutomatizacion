@@ -1,4 +1,4 @@
-package definitionsDa;
+package definitions;
 
 import io.cucumber.java.es.Cuando;
 import io.cucumber.java.es.Dado;
