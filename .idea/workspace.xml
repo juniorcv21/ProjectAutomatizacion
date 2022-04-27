@@ -5,10 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9033bacc-9fe1-4bb0-bf36-23bfa0575d1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/1_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222539917_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222541224_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222544381_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222548303_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222919680_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222920349_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222923885_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/25042022_222926351_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/2_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/3_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/junio/OneDrive/Escritorio/evidencia/4_evidencia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/carritoPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/pagarPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pageobjects/successPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/support/runtest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/carrito2.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/definitions/carritoDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/definitions/carritoDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/definitions/hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/definitions/hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageobjects/tarjetaPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pageobjects/tarjetaPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/support/util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/support/util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/carrito.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/carrito.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +55,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/junio/OneDrive/Escritorio/Proyecto_Base/ProjectAutomatizacion/src/test/resources/features",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\junio\OneDrive\Escritorio\Proyecto_Base\ProjectAutomatizacion\src\test\resources\features" />
       <recent name="C:\Users\junio\IdeaProjects\sistemaWebAbrilAutomatizacion\src\test\resources\drivers" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\junio\IdeaProjects\sistemaWebAbrilAutomatizacion\src\test\java\definitions" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Compra de un Producto">
+  <component name="RunManager" selected="JUnit.runtest">
     <configuration name="Feature: carrito" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carrito.feature" />
@@ -59,6 +84,46 @@
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
       <shortenClasspath name="NONE" />
       <option name="SUGGESTED_NAME" value="Feature: carrito" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Compra de un Producto Con Variables" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carrito.feature" />
+      <option name="GLUE" value="definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ProjectAutomatizacion" />
+      <option name="NAME_FILTER" value="^Compra de un Producto Con Variables$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Compra de un Producto Con Variables$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Compra de un Producto Con Variables" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Compra de un Producto (1)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/carrito.feature" />
+      <option name="GLUE" value="definitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="ProjectAutomatizacion" />
+      <option name="NAME_FILTER" value="^Compra de un Producto$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Compra de un Producto$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Compra de un Producto" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -132,14 +197,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Cucumber Java.Feature: carrito" />
-      <item itemvalue="Cucumber Java.Scenario: Compra de un Producto" />
-    </list>
+    <configuration name="runtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ProjectAutomatizacion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="support.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="support" />
+      <option name="MAIN_CLASS_NAME" value="support.runtest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber Java.Scenario: Compra de un Producto" />
-        <item itemvalue="Cucumber Java.Scenario: Compra de un Producto" />
+        <item itemvalue="JUnit.runtest" />
+        <item itemvalue="Cucumber Java.Scenario: Compra de un Producto (1)" />
+        <item itemvalue="Cucumber Java.Scenario: Compra de un Producto Con Variables" />
       </list>
     </recent_temporary>
   </component>
